@@ -39,18 +39,42 @@ This is **not** Entra ID, Windows AD, or CyberKy/LLDAP. Those live in other repo
 - [Okta admin console](screenshots/01-okta-admin-console.png)
 - [Add Person: testuser@salamiam.com](screenshots/02-add-person-testuser.png)
 - [People: Test User created](screenshots/03-people-testuser-created.png)
+
+  ![People: Test User created](hero/03-people-testuser-created.png)
+
 - [Group SSO-App-Users](screenshots/04-group-sso-app-users.png)
 - [SAML settings: ACS + Audience IAMShowcase](screenshots/05-saml-settings.png)
 - [Lab SAML App active](screenshots/06-lab-saml-app-active.png)
 - [App auth policy: Any two factors](screenshots/07-app-auth-policy-any-two-factors.png)
+
+  ![App auth policy: Any two factors](hero/07-app-auth-policy-any-two-factors.png)
+
 - [App assigned to SSO-App-Users](screenshots/08-app-assigned-to-group.png)
+
+  ![App assigned to SSO-App-Users](hero/08-app-assigned-to-group.png)
+
 - [Test User dashboard: Lab SAML App tile](screenshots/09-testuser-dashboard-tile.png)
+
+  ![Test User dashboard: Lab SAML App tile](hero/09-testuser-dashboard-tile.png)
+
 - [SSO success: Hello testuser@salamiam.com](screenshots/10-sso-success-hello-testuser.png)
+
+  ![SSO success: Hello testuser@salamiam.com](hero/10-sso-success-hello-testuser.png)
+
 - [SSO AuthN details](screenshots/11-sso-authn-details.png)
 - [SSO assertion: Status Success + Issuer Okta](screenshots/12-sso-assertion-success-issuer.png)
+
+  ![SSO assertion: Status Success + Issuer Okta](hero/12-sso-assertion-success-issuer.png)
+
 - [SSO Audience IAMShowcase](screenshots/13-sso-audience-iamshowcase.png)
 - [SSO-App-Users: Test User removed](screenshots/14-sso-app-users-testuser-removed.png)
+
+  ![SSO-App-Users: Test User removed](hero/14-sso-app-users-testuser-removed.png)
+
 - [Dashboard tile gone — Add apps to your launcher](screenshots/15-testuser-dashboard-tile-gone.png)
+
+  ![Dashboard tile gone — Add apps to your launcher](hero/15-testuser-dashboard-tile-gone.png)
+
 
 ## What was built
 
