@@ -15,7 +15,7 @@ This is an access ticket from start to finish in Okta: a new user needs an app, 
 
 ## What I learned
 
-In my own words (light grammar only): "I've built test users and groups and assigned applications to show how to move someone through what's asked of me if they need to be added to things, and built protections in: having them sign into app access, having them verify through the Okta Verify authenticator, giving them single sign-on, putting them through lifecycle changes, and removing them when they are done with a project or assignment. That keeps them secure, so they only have access to what they need and can't get breached. If a breach happened, most likely it's because they gave someone access, because I closed all doors."
+"I've built test users and groups and assigned applications to show how to move someone through what's asked of me if they need to be added to things, and built protections in: having them sign into app access, having them verify through the Okta Verify authenticator, giving them single sign-on, putting them through lifecycle changes, and removing them when they are done with a project or assignment. That keeps them secure, so they only have access to what they need and can't get breached. If a breach happened, most likely it's because they gave someone access, because I closed all doors."
 
 ## Key screenshots
 
